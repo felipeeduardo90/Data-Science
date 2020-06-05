@@ -2,5 +2,5 @@
   <img src="banner DSNP.png" >
 </p> 
 
-# Data-Science
-Artigos e Projetos de Data Science
+# Felipe Eduardo Franco
+Aqui você encontra meus artigos e projetos de Data Science
