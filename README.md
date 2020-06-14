@@ -8,5 +8,5 @@
 
 Aqui você encontra meus artigos e projetos de Data Science
 
-* **Análise da Violência no Rio de Janeiro: https://bit.ly/2Y2vFq0
+* **Análise da Violência no Rio de Janeiro: https://bit.ly/2Y2vFq0**
 * **Análise de dados do Airbnb - New York: https://bit.ly/2AMcK9o**
