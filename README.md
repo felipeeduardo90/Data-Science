@@ -2,7 +2,7 @@
   <img src="datatemplate2.png" >
 </p> 
 
-# About me:
+# About me
 
 My name is Felipe Franco and I'm from São Paulo, Brazil. I'm graduated in Bussiness Management by State College of Technology (FATEC) and an enthusiastic aspiring at Data Science. In this repository you'll find EDA's and Data Science projetcs that I've been working on. All the projects are commented and mostly developed in Python. Check the list below. Feel free to contact me, make suggestions or propose new projects. Best regards!
 
