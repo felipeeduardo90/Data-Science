@@ -10,4 +10,7 @@ My name is Felipe Franco and I'm from São Paulo, Brazil. I'm graduated in Bussi
 * **Análise da Violência no Rio de Janeiro: https://bit.ly/2Y2vFq0**
 * **Análise de dados do Airbnb - New York: https://bit.ly/2AMcK9o**
 
-[Linked-in](https://www.linkedin.com/in/felipe-eduardo-franco-b3a05b186/)
+# Contact
+
+Email - gc_felipe@hotmail.com
+[Linked-in Account](https://www.linkedin.com/in/felipe-eduardo-franco-b3a05b186/)
